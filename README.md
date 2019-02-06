@@ -4,7 +4,7 @@ In this repository we will demo our git skills by creating a list of all the stu
 
 If you would rather not post your real name in this public space, please feel free to select an alias, as long as the alias has your initials and alphabetically falls in the same position in the class list.
 
-*Before you can commit, Dr. Hill must add your github username to the repo.**
+*Before you can commit, Dr. Hill must add your github username to the repo.*
 
 **Recommended steps:**
 1. Clone the repo
