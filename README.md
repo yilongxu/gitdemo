@@ -16,4 +16,4 @@ If you would rather not post your real name in this public space, please feel fr
 
 ## New to git?
 
-If you're new to git, I highly recommend using a GUI interface such as [sourcetree](https://www.sourcetreeapp.com/) to help you manage your repo. This is the tool I use to manage my git repos because it offers an intuitive push-button interface for all git commands (so I don't need to remember the syntax of the command line) and has a great visual view of all changes & branches.
+If you're new to git, I highly recommend using a GUI interface such as [sourcetree](https://www.sourcetreeapp.com/) to help you manage your repo. This is the tool I use to manage my git repos because it offers an intuitive push-button interface for all git commands (so I don't need to remember the syntax of the command line), has a great visual view of all changes & branches, and tells me when there are remote pushes I need to grab.
