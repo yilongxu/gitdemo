@@ -1,9 +1,11 @@
+Griffin Bortnick
 Angelo Bossini
+Ian Davis
 Lloyd Goldstein
 Emily Hill
 Henry Howland
 Megan Hulmes
-Dongwoo Lee
+Sean Larson
 Bobby Ludwick
 Shannon Miller
 Garrett Pilkington
@@ -11,9 +13,10 @@ Nicholas Polacek
 Emmanuel Quinones
 Michael Roosa
 Chunyi Shen
+Dongwoo Lee
 Anne Saint Victor
 Shannon Spangler
 Onosetale Ugbenin
 Ryan Underwood
 Sandiya Venkatesh
-Dongwoo Lee
+
