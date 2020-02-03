@@ -1,4 +1,10 @@
 Angelo Bossini
 Emily Hill
 Bobby Ludwick
+<<<<<<< HEAD
+Michael Roosa
+=======
+Shannon Miller
+Nicholas Polacek
+>>>>>>> b437fc66eceaf1a03d5a001454c3605379d51373
 Shannon Spangler
