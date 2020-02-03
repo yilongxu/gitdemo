@@ -9,9 +9,10 @@ Shannon Miller
 Nicholas Polacek
 Emmanuel Quinones
 Michael Roosa
+Chunyi Shen
 Anne Saint Victor
 Shannon Spangler
 Onosetale Ugbenin
 Ryan Underwood
 Sandiya Venkatesh
-Chunyi Shen
+
