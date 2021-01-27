@@ -1,6 +1,6 @@
 # Git Demo
 
-In this repository we will demo our git skills by creating a list of all the students in our class in alphabetical order by last name. For full credit, each student should commit their name using their github username.
+In this repository we will demo our git skills by creating a list of all the students in our class in **alphabetical order by last name**. For full credit, each student should commit their name using their github username.
 
 If you would rather not post your real name in this public space, please feel free to select an alias, as long as the alias has your initials and alphabetically falls in the same position in the class list.
 
