@@ -6,6 +6,7 @@ Emily Hill
 Megan Hulmes
 Han Le
 Jiahao Lun
+Katiana Michalski
 Shannon Miller
 David Nesterov-Rappoport (NullDefault)
 Yilong Xu
