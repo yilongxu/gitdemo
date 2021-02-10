@@ -1,6 +1,7 @@
 Ekaitz Alonso
 Colton Berry
 Gavin Burke
+Erin Frederick
 Luke Henry
 Emily Hill
 Megan Hulmes
@@ -10,5 +11,4 @@ Katiana Michalski
 Shannon Miller
 David Nesterov-Rappoport (NullDefault)
 Yilong Xu
-Erin Frederick
 Mahmoud Alminawi
