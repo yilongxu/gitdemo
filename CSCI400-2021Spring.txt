@@ -1,9 +1,26 @@
+<<<<<<< HEAD
 Emily Hill
 <<<<<<< Updated upstream
 =======
+=======
+Ekaitz Alonso
+Mahmoud Alminawi
+Colton Berry
+Gavin Burke
+Erin Frederick
+Luke Henry
+Emily Hill
+Megan Hulmes
+Han Le
+>>>>>>> master
 Jiahao Lun
+Katiana Michalski
 Shannon Miller
 David Nesterov-Rappoport (NullDefault)
+<<<<<<< HEAD
 Thato Sekonya
 >>>>>>> Stashed changes
 Damaris Zola
+=======
+Yilong Xu
+>>>>>>> master
